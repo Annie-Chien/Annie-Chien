@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning **Next.js, Node.js, Express.js**.
 - 🔧 I'm currently building my [website](https://annie-chien.github.io/Annie-Docusaurus/).
 - 📝 I regularly write articles on [https://medium.com/@annie.chien105](https://medium.com/@annie.chien105)
-- 📫 How to reach me **annie.chien105@gmail.com**
+
+<h3 align="left">📫 How to reach me</h3>
+  <a href="mailto:annie.chien105@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30" height="30"/></a>
+<!--   <a href="www.linkedin.com/in/annie-chien-9671842a0"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30"/></a> -->
 
 <h3 align="left">🧰 Some Tools I use</h3>
 <p align="left"> 
